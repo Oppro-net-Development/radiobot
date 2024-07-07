@@ -37,7 +37,7 @@ def remove_channel(channel_id):
     conn.close()
 
 # Token als Umgebungsvariable oder direkt im Skript (nur zu Testzwecken)
-TOKEN = "MTI0OTY5NTg4MTQ5NDc5NDMwMQ.G-s0Vq.eE6f_LL6PI7SnCZ16DuGWWRLqHULLTVFTE1tB0"
+TOKEN = "YOU TOKEN"
 
 intents = discord.Intents.default()
 intents.message_content = True
