@@ -1,2 +1,2 @@
 # radiobot
-Created by Joker
+Code wurde von Joker erstellt verbessert von Mir
