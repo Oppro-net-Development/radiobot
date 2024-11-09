@@ -1,0 +1,5 @@
+asyncio
+py-cord
+PyNaCl
+ezcord
+psutil
